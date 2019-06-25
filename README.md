@@ -28,5 +28,5 @@ Fitur User
 - Merekap Surat Masuk & Surat Keluar sesuai dengan laporan yang di inginkan.
 - Menjalankan sistem penomoran surat sesuai dengan Permen (Peraturan Pemerintah) yang telah di update oleh Admin.
 
-Untuk Database bisa hubungi 085607113801
+Untuk Database bs email di agetoz@yahoo.com
 Free
