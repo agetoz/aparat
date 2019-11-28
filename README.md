@@ -30,3 +30,5 @@ Fitur User
 
 Untuk Database bs email di agetoz@yahoo.com
 Free
+
+*Donasi? Pulsa seikhlasnya aja. (083112006203)
