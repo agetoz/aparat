@@ -25,6 +25,7 @@ Fitur User
 - Memasukkan Surat Masuk
 - Memasukkan Surat Keluar
 - Membuat Disposisi Surat Masuk
+- Upload file surat masuk dan keluar berupa gambar maupun pdf
 - Merekap Surat Masuk & Surat Keluar sesuai dengan laporan yang di inginkan.
 - Menjalankan sistem penomoran surat sesuai dengan Permen (Peraturan Pemerintah) yang telah di update oleh Admin.
 
