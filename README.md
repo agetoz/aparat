@@ -30,6 +30,5 @@ Fitur User
 - Menjalankan sistem penomoran surat sesuai dengan Permen (Peraturan Pemerintah) yang telah di update oleh Admin.
 
 Untuk Database bs email di agetoz@yahoo.com
-Free
 
-*Donasi? Pulsa seikhlasnya aja. (083112006203)
+*Donasi? Seikhlasnya aja. (083112006203)
