@@ -8,7 +8,7 @@ Config :
 - CMS Codeigniter 2.xx
 - WebServer Apache 2.xx (tested)
 - Database MySQL / MariaDB (tested)
-- Syntax PHP 5.6
+- Syntax PHP 5.6 (Tested)
 - CSS 3
 
 User Manager :
@@ -31,4 +31,6 @@ Fitur User
 
 Untuk Database bs email di agetoz@yahoo.com
 
-*Donasi? Seikhlasnya aja.
+*Open Donasi :
+BSM Mandiri : 7137413978
+A/n : Giemza Bagus
