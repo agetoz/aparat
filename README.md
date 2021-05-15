@@ -34,3 +34,4 @@ Untuk Database bs email di agetoz@yahoo.com
 *Open Donasi :
 BSM Mandiri : 7137413978
 A/n : Giemza Bagus
+(Khusus Donasi kita bantu install via Remote Dekstop/SSH)
