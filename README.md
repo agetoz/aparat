@@ -31,4 +31,4 @@ Fitur User
 
 Untuk Database bs email di agetoz@yahoo.com
 
-*Donasi? Seikhlasnya aja. (083112006203)
+*Donasi? Seikhlasnya aja.
