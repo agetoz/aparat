@@ -32,4 +32,4 @@ Fitur User
 Untuk Database bs email di agetoz@yahoo.com
 
 OPEN DONASI (DONATE)
-(Khusus Donasi kita bantu install via Remote Dekstop/SSH)
+*Khusus Donasi kita bantu install via Remote Dekstop/SSH
