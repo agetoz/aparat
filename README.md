@@ -29,7 +29,9 @@ Fitur User
 - Merekap Surat Masuk & Surat Keluar sesuai dengan laporan yang di inginkan.
 - Menjalankan sistem penomoran surat sesuai dengan Permen (Peraturan Pemerintah) yang telah di update oleh Admin.
 
-Untuk Database bs email di agetoz@yahoo.com
+Untuk Database bs hubungi via :
+- email di agetoz@yahoo.com
+- Instagram @gigu.id
 
 OPEN DONASI (DONATE)
 *Khusus Donasi kita bantu install via Remote Dekstop/SSH
