@@ -29,5 +29,6 @@ Fitur User
 - Merekap Surat Masuk & Surat Keluar sesuai dengan laporan yang di inginkan.
 - Menjalankan sistem penomoran surat sesuai dengan Permen (Peraturan Pemerintah) yang telah di update oleh Admin.
 
-OPEN DONASI (DONATE)
-*Khusus Donasi kita bantu install via Remote Dekstop/SSH
+Aplikasi ini ber-payment minimum (untuk ganti uang Listrik dan Kopi)
+Untuk Donasi bisa kontak kami di @gigu.id (Instagram)
+*kita bantu install hingga tuntas
